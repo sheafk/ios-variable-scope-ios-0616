@@ -18,4 +18,4 @@ In this lab we're going to get some more practice writing code, but through the 
 
 4. Write the method body for `removeAllObjectsFromArray:`. This method should empty the argument array of its objects. Note how this method doesn't return anything; the passed array should be modified in-place.
 
-<a href='https://learn.co/lessons/ios-variable-scope' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ios-variable-scope' title='Variable Scope: Lab'>Variable Scope: Lab</a> on Learn.co and start learning to code for free.</p>
